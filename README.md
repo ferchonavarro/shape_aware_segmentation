@@ -4,7 +4,7 @@ Source code for our paper "Shape-Aware Complementary-Task Learning for Multi-Org
 
 Authors: Fernando Navarro, Suprosanna Shit, Ivan Ezhov, Johannes C. Paetzold, Andrei Gafita, Jan Peeken , Stephanie E. Combs, and Bjoern H. Menze.
 
-<img src="./multitask_net.pdf"/>
+<img src="./multitask_net.png"/>
 
 ## Getting Started
 ### Pre-requisites
