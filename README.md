@@ -2,7 +2,9 @@
 
 Source code for our paper "Shape-Aware Complementary-Task Learning for Multi-Organ Segmentation" as described in [Early access](https://arxiv.org/abs/1908.05099) on **10th International Workshop on Machine Learning in Medical Imaging (MLMI 2019), MICCAI 2019**).
 
+Authors: Fernando Navarro, Suprosanna Shit, Ivan Ezhov, Johannes C. Paetzold, Andrei Gafita, Jan Peeken , Stephanie E. Combs, and Bjoern H. Menze.
 
+<img src="./multitask_net.pdf"/>
 
 ## Getting Started
 ### Pre-requisites
