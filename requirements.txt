@@ -1,7 +1,7 @@
 dipy==0.14.0
 matplotlib==2.2.2
 nibabel==2.3.0
-numpy==1.15.0
+numpy==1.22.0
 pandas==0.23.4
 pydicom==1.2.2
 scikit-image==0.14.0
